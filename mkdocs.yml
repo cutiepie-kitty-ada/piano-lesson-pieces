@@ -2,6 +2,7 @@ site_name: piano-lesson-pieces
 nav:
   - Home: index.md
   - Repertoire 1: repertoire1.md
+  - Solfege and Ensemble 1: solfege-and-ensemble1.md
 theme:
   name: material
   favicon: https://cdn3.iconfinder.com/data/icons/piano-keyboard/900/4-512.png
