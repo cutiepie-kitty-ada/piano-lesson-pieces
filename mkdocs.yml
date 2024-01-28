@@ -1,8 +1,14 @@
 site_name: piano-lesson-pieces
 nav:
   - Home: index.md
+  - Repertoire 2: repertoire2.md
+  - Solfege and Ensemble 2: solfege-and-ensemble2.md
   - Repertoire 1: repertoire1.md
   - Solfege and Ensemble 1: solfege-and-ensemble1.md
+  - Primary 4: primary4.md
+  - Primary 3: primary3.md
+  - Primary 2: primary2.md
+  - Primary 1: primary1.md
 theme:
   name: material
   favicon: https://cdn3.iconfinder.com/data/icons/piano-keyboard/900/4-512.png
