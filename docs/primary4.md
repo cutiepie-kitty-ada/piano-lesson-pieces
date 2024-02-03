@@ -1,5 +1,7 @@
 # Primary 4
 
+![](https://archive.org/download/12-thanks-a-million/Primary%204%20cover.jpeg)
+
 - Waltz
 - Little Red Shoes
 - Lullaby of Stars
