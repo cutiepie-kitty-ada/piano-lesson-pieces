@@ -3,9 +3,9 @@
 ![](https://4.allegroimg.com/s1024/0c99a3/f0abfca24452a3016c886ed8c3f4)
 
 - We're Making music, La Di Da
-- A Sheperd in Alps
+- A Shepherd in Alps
 - London Bridge
-- A Speicial Telephone
+- A Special Telephone
 - Sun Bathing
 - March of the Little Bears
 - Good Morning!
@@ -15,4 +15,4 @@
 - Cast a Spell
 - Pretty Bouquet
 - A Magic March
-- Mice and Elaphant
+- Mice and Elephant
