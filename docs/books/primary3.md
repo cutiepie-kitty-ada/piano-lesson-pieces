@@ -1,3 +1,9 @@
+---
+tags:
+  - Yamaha
+  - JMC2
+---
+
 # Primary 3
 
 ![](https://4.allegroimg.com/s1024/0c99a3/f0abfca24452a3016c886ed8c3f4)

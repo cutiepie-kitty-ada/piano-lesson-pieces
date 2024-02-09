@@ -1,3 +1,9 @@
+---
+tags:
+  - Yamaha
+  - JMC3
+---
+
 # Solfege and Ensemble 1
 
 ![](https://media.karousell.com/media/photos/products/2021/8/27/yamaha_music_jxc_book__solfege_1630079420_1bb1b7fd_progressive.jpg)
