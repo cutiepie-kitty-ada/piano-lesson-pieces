@@ -54,7 +54,12 @@ plugins:
       tags_file: tags.md
   - minify:
       minify_html: true
-  - neoteroi.contribs
+  - neoteroi.contribs:
+      contributors:
+        - email: imzehengl@gmail.com
+          image: https://avatars.githubusercontent.com/u/6238966?v=4
+        - email: 156275145+cutiepie-kitty-ada@users.noreply.github.com
+          image: https://avatars.githubusercontent.com/u/156275145?v=4
 extra_css:
   - css/neoteroi-mkdocs.css
 markdown_extensions:
