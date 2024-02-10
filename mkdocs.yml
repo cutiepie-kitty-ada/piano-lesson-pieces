@@ -1,14 +1,17 @@
 site_name: piano-lesson-pieces
 nav:
   - Home: index.md
-  - Repertoire 2: repertoire2.md
-  - Solfege and Ensemble 2: solfege-and-ensemble2.md
-  - Repertoire 1: repertoire1.md
-  - Solfege and Ensemble 1: solfege-and-ensemble1.md
-  - Primary 4: primary4.md
-  - Primary 3: primary3.md
-  - Primary 2: primary2.md
-  - Primary 1: primary1.md
+  - Books:
+    - books/index.md
+    - Repertoire 2: books/repertoire2.md
+    - Solfege and Ensemble 2: books/solfege-and-ensemble2.md
+    - Repertoire 1: books/repertoire1.md
+    - Solfege and Ensemble 1: books/solfege-and-ensemble1.md
+    - Primary 4: books/primary4.md
+    - Primary 3: books/primary3.md
+    - Primary 2: books/primary2.md
+    - Primary 1: books/primary1.md
+  - Tags: tags.md
 theme:
   name: material
   favicon: https://cdn3.iconfinder.com/data/icons/piano-keyboard/900/4-512.png
@@ -40,12 +43,30 @@ theme:
     - header.autohide
     - navigation.top
     - navigation.footer
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.instant
 repo_name: piano-lesson-pieces
 repo_url: https://github.com/cutiepie-kitty-ada/piano-lesson-pieces
 plugins:
   - search
+  - tags:
+      tags_file: tags.md
   - minify:
       minify_html: true
+  - neoteroi.contribs:
+      contributors:
+        - email: imzehengl@gmail.com
+          image: https://avatars.githubusercontent.com/u/6238966?v=4
+        - email: 156275145+cutiepie-kitty-ada@users.noreply.github.com
+          image: https://avatars.githubusercontent.com/u/156275145?v=4
+extra_css:
+  - css/neoteroi-mkdocs.css
+markdown_extensions:
+  - neoteroi.timeline
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 extra:
   social:
     - icon: fontawesome/brands/github
