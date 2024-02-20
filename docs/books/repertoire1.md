@@ -6,7 +6,7 @@ tags:
 
 # Repertoire 1
 
-![](https://ia804608.us.archive.org/3/items/06-an-ukrainian-girl-orchestra/Repertoire%201.jpg?cnt=0)
+![](./repertoire1.png)
 
 - Let's Go on an Expedition
 - Waltz
