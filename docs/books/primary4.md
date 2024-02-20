@@ -6,7 +6,7 @@ tags:
 
 # Primary 4
 
-![](https://archive.org/download/12-thanks-a-million/Primary%204%20cover.jpeg)
+![](./primary4.png)
 
 - Waltz
 - Little Red Shoes
