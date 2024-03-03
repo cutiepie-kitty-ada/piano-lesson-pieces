@@ -21,6 +21,10 @@
         "icon": ":simple-yamahacorporation:",
         "content": "Yamaha JMC3",
     },
+    {
+        "title": "[Easiest Piano Course Part 2](./easiest-piano-course2.md),
+        "sub_title": "2024",    
+    },
 ]
 
 ::/timeline::
