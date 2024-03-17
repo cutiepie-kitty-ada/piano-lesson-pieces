@@ -22,8 +22,9 @@
         "content": "Yamaha JMC3",
     },
     {
-        "title": "[Easiest Piano Course Part 2](./easiest-piano-course2.md)",
-        "sub_title": "2024",    
+        "title": "[Easiest Piano Course Part 3](./easiest-piano-course3.md),<br>[Easiest Piano Course Part 2](./easiest-piano-course2.md)",
+        "sub_title": "2024",
+        "content": "John Thompson's",
     },
 ]
 

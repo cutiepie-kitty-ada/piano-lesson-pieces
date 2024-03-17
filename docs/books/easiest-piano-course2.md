@@ -1,4 +1,11 @@
-# Easiest Piano Course Part 2 
+---
+tags:
+  - John Thompson's
+---
+
+# Easiest Piano Course Part 2
+
+![](./easiest-piano-course2.png)
 
 - School Days
 - Playing Tag
@@ -11,4 +18,3 @@
 - The Ballet Dancer
 - Three Blind Mice
 - The Dancing Kangaroo
-- 
