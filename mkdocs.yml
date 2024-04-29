@@ -56,6 +56,9 @@ plugins:
       tags_file: tags.md
   - minify:
       minify_html: true
+      minify_css: true
+      css_files:
+        - css/neoteroi-mkdocs.css
   - neoteroi.contribs:
       contributors:
         - email: imzehengl@gmail.com
