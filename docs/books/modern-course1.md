@@ -1,4 +1,11 @@
-# Modern Course For The Piano
+---
+tags:
+  - John Thompson's
+---
+
+# Modern Course For The Piano 1
+
+![](./modern-course1.png)
 
 - Music Land
 - Patterns

@@ -16,13 +16,13 @@
         "content": "Yamaha JMC2",
     },
     {
-        "title": "[Repertoire 1](./repertoire1.md),<br>[Solfege and Ensemble 1](./solfege-and-ensemble1.md),<br>[Repertoire 2](./repertoire2.md),<br>[Solfege and Ensemble 2](./solfege-and-ensemble2.md)",
+        "title": "[Repertoire 1](./repertoire1.md)<br>[Solfege and Ensemble 1](./solfege-and-ensemble1.md)<br>[Repertoire 2](./repertoire2.md)<br>[Solfege and Ensemble 2](./solfege-and-ensemble2.md)",
         "sub_title": "2023-24",
         "icon": ":simple-yamahacorporation:",
         "content": "Yamaha JMC3",
     },
     {
-        "title": "[Easiest Piano Course Part 2](./easiest-piano-course2.md),<br>[Easiest Piano Course Part 3](./easiest-piano-course3.md)",
+        "title": "[Easiest Piano Course 2](./easiest-piano-course2.md)<br>[Easiest Piano Course 3](./easiest-piano-course3.md)<br>[Modern Course 1](./modern-course1.md)",
         "sub_title": "2024",
         "content": "John Thompson's",
     },
