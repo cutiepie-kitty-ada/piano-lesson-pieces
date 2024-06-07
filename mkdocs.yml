@@ -3,6 +3,8 @@ nav:
   - Home: index.md
   - Books:
     - books/index.md
+    - RCM 1 Piano Repertoire: books/rcm1-repertoire.md
+    - RCM 1 Piano Etudes: books/rcm1-etudes.md
     - Modern Course For The Piano 1: books/modern-course1.md
     - Easiest Piano Course Part 3: books/easiest-piano-course3.md
     - Easiest Piano Course Part 2: books/easiest-piano-course2.md
