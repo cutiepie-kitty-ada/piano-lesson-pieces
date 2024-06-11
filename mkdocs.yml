@@ -71,7 +71,9 @@ plugins:
           image: https://avatars.githubusercontent.com/u/156275145?v=4
 extra_css:
   - css/neoteroi-mkdocs.css
+  - css/custom.css
 markdown_extensions:
+  - attr_list
   - neoteroi.timeline
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji

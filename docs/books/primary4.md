@@ -6,7 +6,7 @@ tags:
 
 # Primary 4
 
-![](./primary4.png)
+![](../assets/primary4.png){style="width:50%"; loading=lazy}
 
 - Waltz
 - Little Red Shoes

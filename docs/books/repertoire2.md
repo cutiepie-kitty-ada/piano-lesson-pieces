@@ -6,6 +6,6 @@ tags:
 
 # Repertoire 2
 
-![](./repertoire2.png)
+![](../assets/repertoire2.png){style="width:50%"; loading=lazy}
 
 - Barcarolle

@@ -5,4 +5,4 @@ tags:
 
 # RCM Level 1 Piano Repertoire
 
-![](./rcm1-repertoire.png)
+![](../assets/rcm1-repertoire.png){style="width:50%"; loading=lazy}

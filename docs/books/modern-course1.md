@@ -5,7 +5,7 @@ tags:
 
 # Modern Course For The Piano 1
 
-![](./modern-course1.png)
+![](../assets/modern-course1.png){style="width:50%"; loading=lazy}
 
 - Music Land
 - Patterns

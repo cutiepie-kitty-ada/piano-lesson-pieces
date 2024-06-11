@@ -6,7 +6,7 @@ tags:
 
 # Solfege and Ensemble 1
 
-![](./solfege-and-ensemble1.png)
+![](../assets/solfege-and-ensemble1.png){style="width:50%"; loading=lazy}
 
 - The Rainbow Colored Song
 - Allegro

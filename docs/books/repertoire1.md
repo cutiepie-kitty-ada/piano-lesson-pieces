@@ -6,7 +6,7 @@ tags:
 
 # Repertoire 1
 
-![](./repertoire1.png)
+![](../assets/repertoire1.png){style="width:50%"; loading=lazy}
 
 - Let's Go on an Expedition
 - Waltz

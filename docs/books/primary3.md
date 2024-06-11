@@ -6,7 +6,7 @@ tags:
 
 # Primary 3
 
-![](./primary3.png)
+![](../assets/primary3.png){style="width:50%"; loading=lazy}
 
 - We're Making music, La Di Da
 - A Shepherd in Alps

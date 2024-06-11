@@ -5,4 +5,4 @@ tags:
 
 # RCM Level 1 Piano Etudes
 
-![](./rcm1-etudes.png)
+![](../assets/rcm1-etudes.png){style="width:50%"; loading=lazy}

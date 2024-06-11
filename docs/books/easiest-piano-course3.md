@@ -5,7 +5,7 @@ tags:
 
 # Easiest Piano Course Part 3
 
-![](./easiest-piano-course3.png)
+![](../assets/easiest-piano-course3.png){style="width:50%"; loading=lazy}
 
 - Melody
 - The Bee

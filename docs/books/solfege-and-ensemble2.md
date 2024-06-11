@@ -6,7 +6,7 @@ tags:
 
 # Solfege and Ensemble 2
 
-![](./solfege-and-ensemble2.png)
+![](../assets/solfege-and-ensemble2.png){style="width:50%"; loading=lazy}
 
 - A Tiny Violin
 - Titine

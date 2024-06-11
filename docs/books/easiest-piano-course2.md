@@ -5,7 +5,7 @@ tags:
 
 # Easiest Piano Course Part 2
 
-![](./easiest-piano-course2.png)
+![](../assets/easiest-piano-course2.png){style="width:50%"; loading=lazy}
 
 - School Days
 - Playing Tag
