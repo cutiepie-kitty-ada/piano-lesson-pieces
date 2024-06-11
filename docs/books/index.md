@@ -22,9 +22,9 @@
         "content": "Yamaha JMC3",
     },
     {
-        "title": "[Easiest Piano Course 2](./easiest-piano-course2.md)<br>[Easiest Piano Course 3](./easiest-piano-course3.md)<br>[Modern Course 1](./modern-course1.md)<br>[RCM1 Piano Etudes](./rcm1-etudes.md)<br>[RCM1 Piano Repertoire](./rcm1-repertoire.md)",
+        "title": "[Easiest Piano Course 2](./easiest-piano-course2.md)<br>[Easiest Piano Course 3](./easiest-piano-course3.md)<br>[Modern Course 1](./modern-course1.md)<br>[The Virtuoso Pianist Book 1](./hanon1071.md)<br>[RCM1 Piano Etudes](./rcm1-etudes.md)<br>[RCM1 Piano Repertoire](./rcm1-repertoire.md)",
         "sub_title": "2024",
-        "content": "John Thompson's & RCM 1",
+        "content": "John Thompson's & Hanon & RCM 1",
     },
 ]
 
