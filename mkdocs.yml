@@ -63,6 +63,7 @@ plugins:
       minify_css: true
       css_files:
         - css/neoteroi-mkdocs.css
+        - css/custom.css
   - neoteroi.contribs:
       contributors:
         - email: imzehengl@gmail.com
