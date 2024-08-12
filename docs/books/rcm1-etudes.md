@@ -18,3 +18,11 @@ tags:
 - Both Ways
 - Tricky Traffic
 - Speedy Comet
+- Far Away
+- Answering
+- Jump Pop Hop
+- Melodie in F Major, op. 218, no. 36
+- Into the Waves
+- Detectives
+- Scherzo, op. 12
+- Four-Wheel Drive
