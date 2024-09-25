@@ -12,19 +12,22 @@ hide:
     {
         "title": "[Primary 1](./primary1.md), [Primary 2](./primary2.md)",
         "sub_title": "2021-2022",
-        "icon": ":simple-yamahacorporation:",
+        "key": "logo",
+        "icon": "../assets/yamaha.png",
         "content": "Yamaha JMC1",
     },
     {
         "title": "[Primary 3](./primary3.md), [Primary 4](./primary4.md)",
         "sub_title": "2022-2023",
-        "icon": ":simple-yamahacorporation:",
+        "key": "logo",
+        "icon": "../assets/yamaha.png",
         "content": "Yamaha JMC2",
     },
     {
         "title": "[Repertoire 1](./repertoire1.md)<br>[Solfege and Ensemble 1](./solfege-and-ensemble1.md)<br>[Repertoire 2](./repertoire2.md)<br>[Solfege and Ensemble 2](./solfege-and-ensemble2.md)",
         "sub_title": "2023-24",
-        "icon": ":simple-yamahacorporation:",
+        "key": "logo",
+        "icon": "../assets/yamaha.png",
         "content": "Yamaha JMC3",
     },
     {
@@ -36,9 +39,23 @@ hide:
     {
         "title": "[RCM1 Piano Etudes](./rcm1-etudes.md)<br>[RCM1 Piano Repertoire](./rcm1-repertoire.md)",
         "sub_title": "2024",
-        "key": "rcm",
+        "key": "logo",
         "icon": "../assets/rcm.png",
         "content": "RCM 1",
+    },
+    {
+        "title": "[Repertoire 3](./repertoire3.md)<br>[Solfege and Ensemble 3](./solfege-and-ensemble3.md)",
+        "sub_title": "2024-25",
+        "key": "logo",
+        "icon": "../assets/yamaha.png",
+        "content": "Yamaha JMC4",
+    },
+    {
+        "title": "[The Virtuoso Pianist Book 2](./hanon1072.md)<br>[RCM2 Piano Etudes](./rcm2-etudes.md)<br>[RCM2 Piano Repertoire](./rcm2-repertoire.md)",
+        "sub_title": "2024-25",
+        "key": "logo",
+        "icon": "../assets/rcm.png",
+        "content": "RCM 2",
     },
 ]
 

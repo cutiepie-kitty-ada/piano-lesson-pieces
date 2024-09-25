@@ -3,6 +3,11 @@ nav:
   - Home: index.md
   - Books:
     - books/index.md
+    - RCM 2 Piano Repertoire: books/rcm2-repertoire.md
+    - RCM 2 Piano Etudes: books/rcm2-etudes.md
+    - Repertoire 3: books/repertoire3.md
+    - Solfege and Ensemble 3: books/solfege-and-ensemble3.md
+    - The Virtuoso Pianist in 60 Exercises Book 2: books/hanon1072.md
     - RCM 1 Piano Repertoire: books/rcm1-repertoire.md
     - RCM 1 Piano Etudes: books/rcm1-etudes.md
     - The Virtuoso Pianist in 60 Exercises Book 1: books/hanon1071.md
