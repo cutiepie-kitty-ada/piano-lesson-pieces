@@ -4,7 +4,7 @@ hide:
     - toc
 ---
 
-# Timeline
+# Books in a Timeline
 
 ::timeline:: center alternate
 
