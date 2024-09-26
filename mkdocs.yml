@@ -22,6 +22,7 @@ nav:
     - Primary 3: books/primary3.md
     - Primary 2: books/primary2.md
     - Primary 1: books/primary1.md
+  - Performances: performances.md
   - Tags: tags.md
 theme:
   name: material
