@@ -11,3 +11,12 @@ tags:
 - A Tiny Violin
 - Titine
 - Fanfare
+- Deck the Halls
+- With Dreams
+- Humpty-Dumpty
+- A Sweet, Old Song
+- Music Plaza
+- Lovely Kittens
+- Alley Cat
+- Small Avalanche
+- Rock'n' Roll
