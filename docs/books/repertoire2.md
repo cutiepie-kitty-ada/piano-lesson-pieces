@@ -9,3 +9,8 @@ tags:
 ![](../assets/repertoire2.png){style="width:50%"; loading=lazy}
 
 - Barcarolle
+- Merry-Go-Round
+- Crickets' Wedding
+- A Bird and a Donkey
+- Hopscotch Game
+- Small Avalanche
