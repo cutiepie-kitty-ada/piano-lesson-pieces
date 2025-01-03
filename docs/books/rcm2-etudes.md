@@ -14,3 +14,9 @@ tags:
 - Pierrot Skipping (Pierrot sautille)
 - The Little Juggler, op. 89, no. 21
 - Bird in the Bebop
+- Arcade Game
+- Crazy Comics
+- Trumpet Blues
+- The Wind
+- Autumn Leaves
+- Rustic Dance
