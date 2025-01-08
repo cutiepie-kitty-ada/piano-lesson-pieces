@@ -44,7 +44,7 @@ hide:
         "content": "RCM 1",
     },
     {
-        "title": "[Repertoire 3](./repertoire3.md)<br>[Solfege and Ensemble 3](./solfege-and-ensemble3.md)",
+        "title": "[Repertoire 3](./repertoire3.md)<br>[Solfege and Ensemble 3](./solfege-and-ensemble3.md)<br>[Repertoire 4](./repertoire4.md)<br>[Solfege and Ensemble 4](./solfege-and-ensemble4.md)",
         "sub_title": "2024-25",
         "key": "logo",
         "icon": "../assets/yamaha.png",
@@ -57,6 +57,13 @@ hide:
         "icon": "../assets/rcm.png",
         "content": "RCM 2",
     },
+    {
+        "title": "[RCM3 Piano Etudes](./rcm3-etudes.md)<br>[RCM3 Piano Repertoire](./rcm3-repertoire.md)",
+        "sub_title": "2025",
+        "key": "logo",
+        "icon": "../assets/rcm.png",
+        "content": "RCM 3",
+    }
 ]
 
 ::/timeline::
