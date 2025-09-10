@@ -63,6 +63,13 @@ hide:
         "key": "logo",
         "icon": "../assets/rcm.png",
         "content": "RCM 3",
+    },
+    {
+        "title": "[RCM4 Piano Etudes](./rcm4-etudes.md)<br>[RCM4 Piano Repertoire](./rcm4-repertoire.md)",
+        "sub_title": "2025-26",
+        "key": "logo",
+        "icon": "../assets/rcm.png",
+        "content": "RCM 4",
     }
 ]
 

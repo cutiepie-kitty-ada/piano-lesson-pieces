@@ -3,6 +3,8 @@ nav:
   - Home: index.md
   - Books:
     - books/index.md
+    - RCM 4 Piano Repertoire: books/rcm4-repertoire.md
+    - RCM 4 Piano Etudes: books/rcm4-etudes.md
     - RCM 3 Piano Repertoire: books/rcm3-repertoire.md
     - RCM 3 Piano Etudes: books/rcm3-etudes.md
     - Repertoire 4: books/repertoire4.md
