@@ -3,6 +3,8 @@ nav:
   - Home: index.md
   - Books:
     - books/index.md
+    - Repertoire Book 1: books/repertoire-book1.md
+    - Solfege and Ensemble 5: books/solfege-and-ensemble5.md
     - RCM 4 Piano Repertoire: books/rcm4-repertoire.md
     - RCM 4 Piano Etudes: books/rcm4-etudes.md
     - RCM 3 Piano Repertoire: books/rcm3-repertoire.md
