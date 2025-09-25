@@ -70,6 +70,13 @@ hide:
         "key": "logo",
         "icon": "../assets/rcm.png",
         "content": "RCM 4",
+    },
+    {
+        "title": "[Repertoire Book 1](./repertoire-book1.md)<br>[Solfege and Ensemble 5](./solfege-and-ensemble5.md)",
+        "sub_title": "2025-26",
+        "key": "logo",
+        "icon": "../assets/yamaha.png",
+        "content": "Yamaha JAC1",
     }
 ]
 
