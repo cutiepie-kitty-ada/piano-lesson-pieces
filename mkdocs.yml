@@ -34,8 +34,8 @@ nav:
   - Tags: tags.md
 theme:
   name: material
-  favicon: https://cdn3.iconfinder.com/data/icons/piano-keyboard/900/4-512.png
-  logo: https://cdn3.iconfinder.com/data/icons/piano-keyboard/900/4-512.png
+  favicon: https://raw.githubusercontent.com/cutiepie-kitty-ada/piano-lesson-pieces/refs/heads/main/logo.png
+  logo: https://raw.githubusercontent.com/cutiepie-kitty-ada/piano-lesson-pieces/refs/heads/main/logo.png
   font:
     text: Roboto
   palette:
