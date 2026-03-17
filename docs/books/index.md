@@ -77,6 +77,13 @@ hide:
         "key": "logo",
         "icon": "../assets/yamaha.png",
         "content": "Yamaha JAC1",
+    },
+    {
+        "title": "[RCM5 Piano Etudes](./rcm5-etudes.md)<br>[RCM5 Piano Repertoire](./rcm5-repertoire.md)",
+        "sub_title": "2026",
+        "key": "logo",
+        "icon": "../assets/rcm.png",
+        "content": "RCM 5",
     }
 ]
 
