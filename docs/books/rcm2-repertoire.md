@@ -12,7 +12,7 @@ tags:
 - Minuet in G Major
 - Impertinence, HWV 494
 - Minuet in A Minor, Z 649
-- A Cheerful Spirt
+- A Cheerful Sprit
 - Minuet in G Major, K 1e
 - German Dance in G Major, Hob. IX:12, no. 1
 - Allegretto in C Major

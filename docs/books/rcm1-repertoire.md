@@ -16,7 +16,7 @@ tags:
 - Minuet in C Major
 - Minuet in D Minor
 - High Spirits
-- Ukraninian Folk Song, op. 107, no. 3
+- Ukrainian Folk Song, op. 107, no. 3
 - Early One Morning
 - The Swiss Cuckoo
 - Sweet Jasmine
